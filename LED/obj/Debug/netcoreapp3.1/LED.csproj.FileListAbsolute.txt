@@ -1,0 +1,13 @@
+E:\ฝึกงาน\Assign\LED\LED\bin\Debug\netcoreapp3.1\LED.exe
+E:\ฝึกงาน\Assign\LED\LED\bin\Debug\netcoreapp3.1\LED.deps.json
+E:\ฝึกงาน\Assign\LED\LED\bin\Debug\netcoreapp3.1\LED.runtimeconfig.json
+E:\ฝึกงาน\Assign\LED\LED\bin\Debug\netcoreapp3.1\LED.runtimeconfig.dev.json
+E:\ฝึกงาน\Assign\LED\LED\bin\Debug\netcoreapp3.1\LED.dll
+E:\ฝึกงาน\Assign\LED\LED\bin\Debug\netcoreapp3.1\LED.pdb
+E:\ฝึกงาน\Assign\LED\LED\obj\Debug\netcoreapp3.1\LED.csprojAssemblyReference.cache
+E:\ฝึกงาน\Assign\LED\LED\obj\Debug\netcoreapp3.1\LED.csproj.CoreCompileInputs.cache
+E:\ฝึกงาน\Assign\LED\LED\obj\Debug\netcoreapp3.1\LED.AssemblyInfoInputs.cache
+E:\ฝึกงาน\Assign\LED\LED\obj\Debug\netcoreapp3.1\LED.AssemblyInfo.cs
+E:\ฝึกงาน\Assign\LED\LED\obj\Debug\netcoreapp3.1\LED.dll
+E:\ฝึกงาน\Assign\LED\LED\obj\Debug\netcoreapp3.1\LED.pdb
+E:\ฝึกงาน\Assign\LED\LED\obj\Debug\netcoreapp3.1\LED.genruntimeconfig.cache
